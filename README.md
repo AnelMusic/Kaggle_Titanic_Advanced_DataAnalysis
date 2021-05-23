@@ -12,3 +12,5 @@ Discuss the thought process of a Machine Learning Engineer / Data Scientist in D
 Make it more difficult for future participants to stand out :)
 
 You can find the full article at:
+
+https://anelmusic13.medium.com/how-to-score-top-3-in-kaggles-titanic-machine-learning-from-disaster-competition-13d056e262b1
